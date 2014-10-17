@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zyn:home|Door43 (zyn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zyn|d43-zyn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zyn/archive/master.zip|d43-zyn.zip]]
+
+**Recent Changes**
+{{changes>ns = zyn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zyn|Ethnologue data]]
+
